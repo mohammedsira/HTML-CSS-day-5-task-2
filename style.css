@@ -1,0 +1,51 @@
+#email {
+    width: 350px;
+    /* Increase the width of the email input box */
+}
+
+.form-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.checked {
+    color: orange;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+    width: 16.66%;
+    /* 6 columns, so each column takes 16.66% width */
+}
+
+input[type="radio"] {
+    transform: scale(1.5);
+    /* Increase the size of the radio button */
+}
+
+
+
+#row_head {
+    text-align: left;
+}
+
+#row1_head {
+    text-align: left;
+}
+
+#text_area {
+    width: 900px;
+    height: 200px;
+}
